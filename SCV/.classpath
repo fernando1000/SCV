@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/jcalendar.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/TimerBean.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/mysql-connector-java-5.1.39-bin.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/asm-3.2.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/groovy-1.7.2.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/jasperreports-4.1.3.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/jasperreports-javaflow-4.1.3.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/commons-logging-1.0.2.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/commons-beanutils-1.7.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="src/util_bibliotecas/commons-digester-1.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
